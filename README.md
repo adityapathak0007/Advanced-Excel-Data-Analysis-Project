@@ -1,4 +1,4 @@
-# 🌟 Advanced Excel Data Analysis Project
+# Advanced Excel Data Analysis Project🌟
 
 This repository contains an advanced analysis of data using **Excel** in the **Analysis.xlsx** file. The project focuses on leveraging Excel's powerful data manipulation and visualization capabilities to extract key insights, trends, and patterns for informed decision-making.
 
